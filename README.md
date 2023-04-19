@@ -1,2 +1,2 @@
 # Jira-Software-Documentation
-I have written a documentation regarding different types of features work on Jira Software
+I have written a documentation on Jira Software different types of features work 

@@ -1,4 +1,7 @@
 # Jira-Software-Documentation
+<p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Jira-Software-Documentation/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+
+## 📝 Description 
 I have written a documentation on Jira Software different types of features work 
 
 Link: 

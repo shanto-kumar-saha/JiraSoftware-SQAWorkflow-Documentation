@@ -17,18 +17,20 @@ How can we create a bug in Jira?
 * Click on the Create button.
 * Select the Project.
 * Select the Issue Type as Bug.
-Bug summary: Add the bug summary. Bug summary is a short and catchy Bug summary.
-Bug Description: Add the bug description and the bug reproduction steps.
-Bug Reporter: Team member who found or uncovered the bug.
-Bug Priority: We need to set the priority of the bug. These types of priorities we can select: Highest, High, Medium, Law, Lowest.
-Bug environment: Specify the bug environment. These are the types of bug environment: Test Environment, QA Build information, operating system, Browser version, etc
-Bug Assignee: This depends on the organization setup. Bug Assignee is usually the developer who is responsible to fix the bug.
-Bug Status: When a reporter logs a bug it will be in Open state. There are several states a bug could be in the workflow. 
-Some of the bug statuses are: OPEN, TO DO, IN PROGRESS, REOPENED, RESOLVED, CLOSED, DONE.
-Bug resolution states like: FIXED, DUPLICATE, WON’T FIX
-Bug Attachments: Attach any files to the bug. For example, bug screenshots, server logs, etc.
-Epic Link: Epic that needs to be linked.
-Sprint: Sprint information. Choose the applicable sprint for the bug.
+* Bug summary: Add the bug summary. Bug summary is a short and catchy Bug summary.
+* Bug Description: Add the bug description and the bug reproduction steps.
+* Bug Reporter: Team member who found or uncovered the bug.
+* Bug Priority: We need to set the priority of the bug. These types of priorities we can select: Highest, High, Medium, Law, Lowest.
+* Bug environment: Specify the bug environment. These are the types of bug environment: Test Environment, QA Build information, operating system, Browser version, etc
+* Bug Assignee: This depends on the organization setup. Bug Assignee is usually the developer who is responsible to fix the bug.
+* Bug Status: When a reporter logs a bug it will be in Open state. There are several states a bug could be in the workflow. 
+* Some of the bug statuses are: OPEN, TO DO, IN PROGRESS, REOPENED, RESOLVED, CLOSED, DONE.
+* Bug resolution states like: FIXED, DUPLICATE, WON’T FIX
+* Bug Attachments: Attach any files to the bug. For example, bug screenshots, server logs, etc.
+* Epic Link: Epic that needs to be linked.
+* Sprint: Sprint information. Choose the applicable sprint for the bug.
+
+## Qtec Website Bug-
 
 
 

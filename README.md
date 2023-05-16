@@ -12,11 +12,11 @@ What is the Jira Ticketing System?
 Jira Ticketing System mainly allows teams to track different tasks and issues efficiently in a project’s lifecycle. Each of the tickets contains detailed information about the issue at hand, including priority level, status, and other relevant details.
 
 How can we create a bug in Jira?
-. Here are the following steps on how to create a bug in Jira software.
-. Open the Jira Software.
-. Click on the Create button.
-. Select the Project.
-. Select the Issue Type as Bug.
+* Here are the following steps on how to create a bug in Jira software.
+* Open the Jira Software.
+* Click on the Create button.
+* Select the Project.
+* Select the Issue Type as Bug.
 Bug summary: Add the bug summary. Bug summary is a short and catchy Bug summary.
 Bug Description: Add the bug description and the bug reproduction steps.
 Bug Reporter: Team member who found or uncovered the bug.

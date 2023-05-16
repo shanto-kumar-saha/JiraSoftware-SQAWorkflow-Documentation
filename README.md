@@ -30,7 +30,60 @@ How can we create a bug in Jira?
 * Epic Link: Epic that needs to be linked.
 * Sprint: Sprint information. Choose the applicable sprint for the bug.
 
-## Qtec Website Bug-
+## Bug Creation Screenshot-
+
+![Defect Description](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/dcc84297-7c45-4adb-a3e2-a7ef05a679d3)
+
+What is Epic in Jira?
+
+Jira epic is a large user story where the large user story is broken into smaller tasks based on the customer or end-user needs. According to the customer's needs, the task is added or removed from the epic as necessary. Epics are almost always delivered over a set of sprints.
+
+## Epic Creation Screenshot-
+
+![Epic Creation](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/7c0b9ae5-4756-4e12-a603-50212bcfa668)
+
+When should we use an epic on Jira?
+
+If we have a large body of work that needs to be completed over several sprints or over a long period of time. We can also create an epic when we notice a pattern among several user stories, and we want to bundle them into one group.
+
+What is Sprint? 
+
+A sprint is a fixed time period where teams complete work from their product backlog. Sprints duration are usually one, two, or four weeks long. At the end of the sprint, a team will typically have built and implemented a working product increment.
+
+What is Task and Subtask in jira?
+
+* Task: A task represents work that needs to be done.
+* Subtask: A subtask is a piece of work that is required to complete a task. We use subtasks in Jira when Jira Issues are too big or too complex, we can break them down into smaller pieces, Subtasks, and assign different people to each.
+
+What is an issue in Jira?
+
+An Issue used in Jira software to track individual pieces of work that must be completed. In general, an issue could represent a story, a bug, a task, or another issue type in the project.
+
+## Issue Creation Screenshot-
+
+![Create Issue](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/cc45fe5c-8c36-472f-91d0-b91ce75553eb)
+
+What is a Backlog?
+
+A backlog is a set of activities or issues that the team needs to be resolved within a specific iteration.
+
+## Backlog Creation Screenshot-
+
+![Backlog SS](https://github.com/shantokumarsaha123/SQA-Websites-and-APIs-PerformanceTesting-JMeter/assets/122052172/fdc18504-7514-4b85-b97a-337ee0b0bc0a)
+
+
+There are two types of backlog that are commonly used in Agile project management: 
+
+* Product Backlog: The product backlog gives an overview of the entire product. The most important items are shown at the top of the product backlog so the team knows what to deliver first.
+* Sprint Backlog: A sprint backlog is a list of work items your team plans to complete during a project sprint. Sprint backlog is a subset of the product backlog. 
+
+What is Story in Jira?
+
+ In jira software, a story is defined as a requirement that can be implemented within one sprint.
+
+What is the issue vs epic in Jira?
+
+Issues are basically Stories, bugs, and tasks that describe a single piece of work, while epics are used to describe a group of issues that all relate to the same, larger body of work.
 
 
 

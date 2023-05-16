@@ -1,4 +1,4 @@
-<h2 align="center" Jira-Software-Documentation </h2>
+## Jira-Software-Documentation
 
 <p align="center"><img src="https://socialify.git.ci/shantokumarsaha123/Jira-Software-Documentation/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
 
